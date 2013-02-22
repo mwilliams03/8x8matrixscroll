@@ -82,7 +82,7 @@ void  INThandler(int sig)
 
 
 
-int main(int argc, char *argv[3])
+int main(int argc, char *argv[])
 {
         //Exit if not enough parameters are added with the executable
         if(argc != 4 ) {
